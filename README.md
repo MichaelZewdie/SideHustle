@@ -1,3 +1,3 @@
 ## Welcome to Side Hustle
-![Image of SideHustle] 
-(file:///Users/michaelzewdie/Downloads/SideHustle%20Logo.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
