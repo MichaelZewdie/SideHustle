@@ -1,3 +1,4 @@
-## Welcome to Side Hustle
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Side Hustle
+Your sidehustle is our main hustle.
+
 
