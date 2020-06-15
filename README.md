@@ -1,3 +1,3 @@
 ## Welcome to Side Hustle
 ![logo] 
-SideHustle Logo.png
+(file:///Users/michaelzewdie/Downloads/SideHustle%20Logo.png)
