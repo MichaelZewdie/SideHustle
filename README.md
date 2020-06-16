@@ -8,4 +8,4 @@
 
 
 
-![imagine](img/SideHustleLogo.png){:class="img-responsive"}
+
