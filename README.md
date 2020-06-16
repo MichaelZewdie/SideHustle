@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+</html>
+
 ## Side Hustle
 Your sidehustle is our main hustle.
 
